@@ -165,9 +165,9 @@ Yes, simply hit CTRL + N and type a new name followed by ENTER.
 You can move left to right on a single track with CTRL + Left/Right.
 
 ### I need a higher resolution?
-You can edit the row resolution by entering CTRL + ALT + Up / Down. You will then notice 
+You can edit the row resolution by entering CTRL + SHIFT + Up / Down. You will then notice 
 that the resolution bit in the description bar becomes red. This means it is not committed.
-If you then hit commit (Ctrl + Alt + ENTER), the resolution will change.
+If you then hit commit (Ctrl + SHIFT + ENTER), the resolution will change.
 
 ### Can I use note delays?
 Yes, but there is a catch. For note delays to work reliably, your MIDI settings have to be 
